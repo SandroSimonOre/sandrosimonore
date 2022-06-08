@@ -7,7 +7,7 @@ Currently I am making a career change. I would love to work as a web developer.
 Technologies I have studied include: JavaScript, React, Node.js, PostgreSQL, MongoDB, GitHub among others.
 
 ## More about me
----
+
 You can visit my Linkedin profile here:
 
 https://www.linkedin.com/in/sandrosimonore/
