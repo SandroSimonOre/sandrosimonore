@@ -1,16 +1,36 @@
 # Hi there 👋 
 
-I am Sandro Simón, from Lima, Perú. I have worked in accounting for almost twenty years.
+I am Sandro Simón, a Full Stack Developer based in Perú. I have worked in accounting for almost twenty years and now I am making a career change. I would love to work in the Technology sector.
 
-Currently I am making a career change. I would love to work as a web developer.
-
-Technologies I have studied include: JavaScript, React, Node.js, PostgreSQL, MongoDB, GitHub among others.
+## My Technologies Stack
+- CSS / Sass
+- JavaScript
+- Python
+- React.js
+- Next.js
+- Node.js
+- PostgreSQL
+- MySQL
+- MongoDB
+- Git
+- Docker
+- Amazon Web Services
 
 ## My projects
+
+
+### REST API
+An application that allows the user to create, modify, query, and delete entities such as products, customers, and orders. Access to the endpoints is according to the user's role. Guests, for example, can only view information.
+-	Technologies: Node.js, Express, PostgreSQL, Sequelize, Swagger, Jason Web Tokens, Git, Docker, Insomnia, PM2.
+-	Repository of the project:
+https://github.com/SandroSimonOre/my-store
+
+
 ### API Consumption
 An app to explore trending movies, by categories, search and save as favorites in the local browser.
-A live version can be found here:
-https://sandrosimon-movies-app.netlify.app
+-	Technologies: React.js, Sass, Context API, Flexbix, Grid.
+- A live demo can be found here:
+https://moviesexplorer.sandrosimon.com/discover
 
 ### Personal WebSite
  It has been built with HTML, Sass and Javascript. Media queries were used to make it possible to view it on a SmartPhone. The website is available in Spanish and English. It can be found here:
