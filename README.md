@@ -3,18 +3,16 @@
 I am Sandro Simón, a Full Stack Developer based in Perú. I have worked in accounting for almost twenty years and now I am making a career change. I would love to work in the Technology sector.
 
 ## My Technologies Stack
-- CSS / Sass
-- JavaScript
-- Python
-- React.js
-- Next.js
-- Node.js
-- PostgreSQL
-- MySQL
-- MongoDB
-- Git
-- Docker
-- Amazon Web Services
+||||
+| -- | -- | -- |
+| CSS / Sass | Node.js | Git |
+| JavaScript | Express | Docker |
+| Python | PostgreSQL | Visual Studio |
+| React.js | MySQL / MariaDB | Amazon Web Services |
+| Next.js | MongoDB | |
+
+
+
 
 ## My projects
 
