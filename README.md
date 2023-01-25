@@ -1,40 +1,38 @@
-# Hi there 👋 
+# HI THERE 👋 
 
-I am Sandro Simón, a Full Stack Developer based in Perú. I have worked in accounting for almost twenty years and now I am making a career change. I would love to work in the Technology sector.
+I am Sandro Simón, a Full Stack Developer based in Perú, looking for a position to work remotely. Graduated in Accounting, currently in a career change process. Self-taught learner, educated on internet platforms like Platzi, Udemy, FreeCodeCamp, HackerRank among others. Focused on the JavaScript ecosystem. Knowledge and experience in database systems, such as MySQL and PostgreSQL. Ability to rapidly learn new technologies. English level: Intermediate.
 
-## My Technologies Stack
-||||
-| -- | -- | -- |
-| CSS / Sass | Node.js | Git |
-| JavaScript | Express | Docker |
-| Python | PostgreSQL | Visual Studio |
-| React.js | MySQL / MariaDB | Amazon Web Services |
-| Next.js | MongoDB | |
+## SKILLS
+|FRONTEND|BACKEND|DATABASE|CLOUD|LEARNING|
+| -- | -- | -- | -- | -- |
+| HTML / CSS / Sass | Node.js | PostgreSQL | Docker | Python
+| JavaScript | Express | MySQL | Kubernetes | Golang
+| React.js | Next.js | MongoDB | AWS | Kotlin
 
 
+## MY PROJECTS
 
-
-## My projects
-
+### BEAUTIFUL PLACES (under construction)
+Web application that allows the user to search for places to stay and make reservations.
+-   Technologies: Next.js, MongoDB, React Hook Form.
+-   Link to the project: [places.sandrosimon.com](https://places.sandrosimon.com)
 
 ### REST API
 An application that allows the user to create, modify, query, and delete entities such as products, customers, and orders. Access to the endpoints is according to the user's role. Guests, for example, can only view information.
--	Technologies: Node.js, Express, PostgreSQL, Sequelize, Swagger, Jason Web Tokens, Git, Docker, Insomnia, PM2.
--	Repository of the project:
-https://github.com/SandroSimonOre/my-store
+-	Technologies: Node.js, Express, PostgreSQL, Sequelize, Swagger, Jason Web Tokens.
+-	Repository of the project: [github.com/SandroSimonOre/my-store](https://github.com/SandroSimonOre/my-store)
 
 
 ### API Consumption
 An app to explore trending movies, by categories, search and save as favorites in the local browser.
 -	Technologies: React.js, Sass, Context API, Flexbix, Grid.
-- A live demo can be found here:
-https://moviesexplorer.sandrosimon.com/discover
+- A live demo can be found here: [moviesexplorer.sandrosimon.com](https://moviesexplorer.sandrosimon.com)
 
 ### Personal WebSite
- It has been built with HTML, Sass and Javascript. Media queries were used to make it possible to view it on a SmartPhone. The website is available in Spanish and English. It can be found here:
- https://sandrosimon.com
+It has been built with HTML, Sass and Javascript. Media queries were used to make it possible to view it on a SmartPhone. The website is available in Spanish and English. It can be found here:
+[SandroSimon.com](https://sandrosimon.com)
 
-## More about me
+## MORE ABOUT ME
 
 You can visit my Linkedin profile here:
 
