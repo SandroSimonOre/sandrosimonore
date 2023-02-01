@@ -5,11 +5,10 @@ I am Sandro Simón, a Full Stack Developer based in Perú, looking for a positio
 ## SKILLS
 |FRONTEND|BACKEND|DATABASE|CLOUD|LEARNING|
 | -- | -- | -- | -- | -- |
-| HTML / CSS / Sass | Node.js | PostgreSQL | Docker | Python |
-| JavaScript | Express | MySQL | Kubernetes | Golang |
-| React.js |  | MongoDB | AWS | Kotlin |
+| HTML / CSS / Sass | Node.js | PostgreSQL | Docker | TypeScript |
+| JavaScript | Express | MySQL | Kubernetes | Python |
+| React.js |  | MongoDB | AWS | Golang |
 | Next.js | | | | |
-|  |  |  |  |  |
 
 
 ## MY PROJECTS
