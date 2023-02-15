@@ -3,13 +3,20 @@
 I am Sandro Simón, a Full Stack Developer based in Perú, looking for a position to work remotely. Graduated in Accounting, currently in a career change process. Self-taught learner, educated on internet platforms like Platzi, Udemy, FreeCodeCamp, HackerRank among others. Focused on the JavaScript ecosystem. Knowledge and experience in database systems, such as MySQL and PostgreSQL. Ability to rapidly learn new technologies. English level: Intermediate.
 
 # 🧰 My skills
-|FRONTEND|BACKEND|DATABASE|CLOUD|LEARNING|
-| -- | -- | -- | -- | -- |
-| HTML / CSS / Sass | Node.js | PostgreSQL | Docker | TypeScript |
-| JavaScript | Express | MySQL | Kubernetes | Python |
-| React.js |  | MongoDB | AWS | |
-| Next.js | | | | |
+### Frontend:
+`JavaScript` `CSS` `Sass` `React.js` `Next.js`
 
+### Backend:
+`Node.js` `Express`
+
+### Database systems:
+`PostgreSQL` `MySQL` `MongoDB`
+
+### Cloud technologies and tools:
+`Docker` `Kubernetes` `Git and GitHub`
+
+### I am also learning:
+`TypeScript` `Python`
 
 # 🚀 My projects
 
