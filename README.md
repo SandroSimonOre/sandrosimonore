@@ -21,9 +21,7 @@ Users can check prices and other information about books, add some titles to the
 
 🔗 [bookstore.sandrosimon.com](https://bookstore.sandrosimon.com)
 
-<br>
-<br>
-### Online Booking (under construction)
+### Online Booking
 ---
 Web application that allows the user to search for places to stay and make reservations.
 
