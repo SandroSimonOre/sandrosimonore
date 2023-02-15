@@ -17,38 +17,49 @@ I am Sandro Simón, a Full Stack Developer based in Perú, looking for a positio
 ---
 Users can check prices and other information about books, add some titles to the cart and pay for them with Paypal or credit card. This app is available for mobile devices as well.
 
-`Next.js` `Tailwind CSS`, MongoDB, Mongoose, React Hook Form, Redux Tool Kit, Next Auth.
-- Link to the project: [bookstore.sandrosimon.com](https://bookstore.sandrosimon.com)
+`Next.js` `Tailwind CSS` `MongoDB` `Mongoose` `React Hook Form` `Redux Tool Kit` `Next Auth`
 
+🔗 [bookstore.sandrosimon.com](https://bookstore.sandrosimon.com)
 
+<br>
+<br>
 ### Online Booking (under construction)
 ---
 Web application that allows the user to search for places to stay and make reservations.
--   Technologies: Next.js, MongoDB, React Hook Form.
--   Link to the project: [places.sandrosimon.com](https://places.sandrosimon.com)
+
+`Next.js` `MongoDB` `React Hook Form`
+
+🔗 [places.sandrosimon.com](https://places.sandrosimon.com)
 
 ### API Consumption
 ---
 An app to explore trending movies, by categories, search and save as favorites in the local browser.
--	Technologies: React.js, Sass, Context API, Flexbix, Grid.
-- A live demo can be found here: [moviesexplorer.sandrosimon.com](https://moviesexplorer.sandrosimon.com)
+
+`React.js` `Sass` `Context API` `Flexbix` `Grid`
+
+🔗 [moviesexplorer.sandrosimon.com](https://moviesexplorer.sandrosimon.com)
 
 ### REST API
 ---
 An application that allows the user to create, modify, query, and delete entities such as products, customers, and orders. Access to the endpoints is according to the user's role. Guests, for example, can only view information.
--	Technologies: Node.js, Express, PostgreSQL, Sequelize, Swagger, Jason Web Tokens.
--	Repository of the project: [github.com/SandroSimonOre/my-store](https://github.com/SandroSimonOre/my-store)
+
+`Node.js` `Express` `PostgreSQL` `Sequelize` `Swagger` `JWT`
+
+🔗 [github.com/SandroSimonOre/my-store](https://github.com/SandroSimonOre/my-store)
 
 ### Personal Website
 ---
-It has been built with HTML, Sass and Javascript. Media queries were used to make it possible to view it on a SmartPhone. The website is available in Spanish and English. It can be found here:
+It has been built with HTML, Sass and Javascript. Media queries were used to make it possible to view it on a SmartPhone. The website is available in Spanish and English.
+
+`Next.js` `TypeScript`
+
 [SandroSimon.com](https://sandrosimon.com)
 
 # More about me
 
 You can visit my Linkedin profile here:
 
-https://www.linkedin.com/in/sandrosimonore/
+🔗 https://www.linkedin.com/in/sandrosimonore/
 
 
 
