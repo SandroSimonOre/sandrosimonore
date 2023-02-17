@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I am Sandro Simón, a Full Stack Developer based in Perú, looking for a position to work remotely. Graduated in Accounting, currently in a career change process. Self-taught learner, educated on internet platforms like Platzi, Udemy, FreeCodeCamp, HackerRank among others. Focused on the JavaScript ecosystem. Knowledge and experience in database systems, such as MySQL and PostgreSQL. Ability to rapidly learn new technologies. English level: Intermediate.
+I am an Accountant who is passionate about programming. I am based in Perú and currently seeking a position as a Full Stack Developer. My career goal is to specialize in developing business applications using web and cloud technology.
 
 # 🧰 My skills
 ### Frontend:
@@ -58,7 +58,7 @@ It has been built with HTML, Sass and Javascript. Media queries were used to mak
 
 `Next.js` `TypeScript`
 
-[SandroSimon.com](https://sandrosimon.com)
+🔗 [SandroSimon.com](https://sandrosimon.com)
 
 # 🧑 More about me
 
