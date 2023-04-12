@@ -42,7 +42,7 @@ An app to explore trending movies, by categories, search and save as favorites i
 
 `React.js` `Sass` `Context API` `Flexbix` `Grid`
 
-🔗 [moviesexplorer.sandrosimon.com](https://movies.sandrosimon.com)
+🔗 [movies.sandrosimon.com](https://movies.sandrosimon.com)
 
 ### REST API
 ---
