@@ -20,14 +20,6 @@ I am an Accountant who is passionate about programming. I am based in Perú and 
 
 # 🚀 My projects
 
-### Bookstore
----
-Users can check prices and other information about books, add some titles to the cart and pay for them with Paypal or credit card. This app is available for mobile devices as well.
-
-`Next.js` `Tailwind CSS` `MongoDB` `Mongoose` `React Hook Form` `Redux Tool Kit` `Next Auth`
-
-🔗 [bookstore.sandrosimon.com](https://bookstore.sandrosimon.com)
-
 ### Online Booking
 ---
 Web application that allows the user to search for places to stay and make reservations.
@@ -36,13 +28,29 @@ Web application that allows the user to search for places to stay and make reser
 
 🔗 [places.sandrosimon.com](https://places.sandrosimon.com)
 
+### Bookstore
+---
+Users can check prices and other information about books, add some titles to the cart and pay for them with Paypal or credit card. This app is available for mobile devices as well.
+
+`Next.js` `Tailwind CSS` `MongoDB` `Mongoose` `React Hook Form` `Redux Tool Kit` `Next Auth`
+
+🔗 [bookstore.sandrosimon.com](https://bookstore.sandrosimon.com)
+
 ### API Consumption
 ---
 An app to explore trending movies, by categories, search and save as favorites in the local browser.
 
-`React.js` `Sass` `Context API` `Flexbix` `Grid`
+`React.js` `Sass` `Context API` `Flexbox` `Grid`
 
 🔗 [movies.sandrosimon.com](https://movies.sandrosimon.com)
+
+### Video Library
+---
+This is a simple web app that allows the user to browse a small videos catalog. It implements search, filter and sort features.
+
+`React.js` `Sass`
+
+🔗 [videolibrary.sandrosimon.com](https://videolibrary.sandrosimon.com)
 
 ### REST API
 ---
