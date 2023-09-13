@@ -4,7 +4,7 @@ I am an Accountant who is passionate about programming. I am based in Perú and 
 
 # 🧰 My skills
 ### Frontend:
-`JavaScript` `CSS` `Sass` `React.js` `Next.js`
+`TypeScript` `React.js` `Next.js` `Tailwind CSS`
 
 ### Backend:
 `Node.js` `Express`
@@ -14,9 +14,6 @@ I am an Accountant who is passionate about programming. I am based in Perú and 
 
 ### Cloud technologies and tools:
 `Docker` `Kubernetes` `Git and GitHub`
-
-### I am also learning:
-`TypeScript` `Python`
 
 # 🚀 My projects
 
@@ -51,14 +48,6 @@ This is a simple web app that allows the user to browse a small videos catalog. 
 `React.js` `Sass`
 
 🔗 [videolibrary.sandrosimon.com](https://videolibrary.sandrosimon.com)
-
-### REST API
----
-An application that allows the user to create, modify, query, and delete entities such as products, customers, and orders. Access to the endpoints is according to the user's role. Guests, for example, can only view information.
-
-`Node.js` `Express` `PostgreSQL` `Sequelize` `Swagger` `JWT`
-
-🔗 [github.com/SandroSimonOre/my-store](https://github.com/SandroSimonOre/my-store)
 
 ### Personal Website
 ---
